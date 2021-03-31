@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc ./index.ts",
-    "postinstall": "tsc ./index.ts"
+    "postinstall": "npm run build"
   },
   "dependencies": {
     "ts-node": "^9.1.1",
