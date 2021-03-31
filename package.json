@@ -6,8 +6,8 @@
   "author": "Migushthe2nd",
   "license": "MIT",
   "scripts": {
-    "compile": "tsc ./index.ts",
-    "postinstall": "tsc ./index.ts"
+    "build": "tsc ./index.ts",
+    "postinstall": "npm run build"
   },
   "dependencies": {
     "ts-node": "^9.1.1",

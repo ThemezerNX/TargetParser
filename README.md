@@ -17,5 +17,5 @@ For example:
 yarn
 
 # compile the script
-yarn run compile
+yarn run build
 ```
