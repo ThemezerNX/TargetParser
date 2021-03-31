@@ -12,8 +12,7 @@
     "prepublishOnly": "yarn run build",
     "publish": "yarn publish --access=public"
   },
-  "dependencies": {
-    "ts-node": "^9.1.1",
+  "devDependencies": {
     "typescript": "^4.2.3"
   },
   "files": [
