@@ -1,12 +1,12 @@
 {
   "name": "@themezernx/target-parser",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://github.com/ThemezerNX/TargetParser",
   "author": "Migushthe2nd",
   "license": "MIT",
+  "main": "./dist/index.js"
   "scripts": {
-    "build": "tsc ./index.ts",
+    "build": "tsc",
     "postinstall": "npm run build"
   },
   "dependencies": {

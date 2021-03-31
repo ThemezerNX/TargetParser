@@ -1,6 +1,6 @@
 # Target Parser
 
-A small library that converts menu names from layouts, themes or `SZS` files.  
+A small library that converts menu names from layouts, themes and `SZS` files.  
 For example:
 `Home Menu` (nice) <-> `home` (theme) <-> `homemenu` (web) <-> `ResidentMenu` (target) <-> `ResidentMenu.szs` (target)
 
