@@ -1,0 +1,16 @@
+{
+  "name": "@themezernx/target-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ThemezerNX/TargetParser",
+  "author": "Migushthe2nd",
+  "license": "MIT",
+  "scripts": {
+    "compile": "tsc ./index.ts",
+    "postinstall": "tsc ./index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
+  }
+}
