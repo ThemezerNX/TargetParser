@@ -1,6 +1,6 @@
 {
   "name": "@themezernx/target-parser",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A small library that converts menu names from layouts, themes and `SZS` files. ",
   "repository": "https://github.com/ThemezerNX/TargetParser",
   "author": "Migushthe2nd",
