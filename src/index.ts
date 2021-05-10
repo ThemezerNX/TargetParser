@@ -1,5 +1,9 @@
 const menuNames = [
 	{
+		target: "common",
+		nice: "Home Menu Common",
+	},
+	{
 		target: "ResidentMenu",
 		theme: "home",
 		web: "homemenu",
