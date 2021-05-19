@@ -2,7 +2,7 @@
 
 A small library that converts menu names from layouts, themes and `SZS` files.  
 For example:
-`Home Menu` (nice) <-> `home` (theme) <-> `homemenu` (web) <-> `ResidentMenu` (target) <-> `ResidentMenu.szs` (target)
+`Home Menu` (nice) <-> `home` (theme) <-> `homemenu` (web) <-> `ResidentMenu` (target) <-> `ResidentMenu.szs` (target) -> `0100000000001000` (titleId)
 
 -   `Home Menu` (nice): the 'nice' name displayed in UI.
 -   `home` (theme): the nxtheme target.
