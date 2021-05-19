@@ -9,6 +9,7 @@ For example:
 -   `homemenu` (web): the short name used in e.g. urls on [Themezer.net](https://themezer.net/).
 -   `ResidentMenu` (target): the target in a layout. It is also the actual filename of the menu.
 -   `ResidentMenu.szs` (target): same as above.
+-   `0100000000001000` (titleId): the internal system title that the menu is stored in.
 
 # Build
 
