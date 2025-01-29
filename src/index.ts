@@ -1,7 +1,7 @@
 const menuNames = [
 	{
 		target: "common",
-		nice: "Home Menu Common",
+		nice: "Common",
 		titleId: "0100000000001000",
 	},
 	{
